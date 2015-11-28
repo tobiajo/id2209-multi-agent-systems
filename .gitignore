@@ -1,0 +1,8 @@
+# Folders
+.idea/
+/*/target/
+
+# Files
+*.iml
+*.txt
+/*/dependency-reduced-pom.xml
